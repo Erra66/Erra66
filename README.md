@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ( ROBOT A 3 DRGREE DE LIBERTER )
-  # ROBOT
+  #/ ROBOT/
   
 <!---
 Erra66/Erra66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
